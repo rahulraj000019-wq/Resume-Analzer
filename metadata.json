@@ -1,0 +1,5 @@
+{
+  "name": "Resume Analyzer",
+  "description": "A Java-based application that compares a user’s resume with a job description using a rule-based approach (without AI). It extracts keywords and skills from both inputs and identifies matching and missing skills.",
+  "requestFramePermissions": []
+}
